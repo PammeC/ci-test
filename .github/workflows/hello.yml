@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Echo the message
         run: |
-          echo "Hola Pamm :33!"
+          echo "Hola Pamms :33!"
       - name: Dime la fecha
         run: date
       - run: ls -l
